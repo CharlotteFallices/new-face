@@ -1,2 +1,2 @@
-# new-face
+# New Face!
 Get a new face!
